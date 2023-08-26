@@ -1,1 +1,2 @@
-# symbol_tables_etc
+# searching
+symbol tales, hashing, bloom filters, and tries. maybe more!
